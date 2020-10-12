@@ -1,0 +1,6 @@
+framework module Pods_HBTechnicalSummary {
+  umbrella header "Pods-HBTechnicalSummary-umbrella.h"
+
+  export *
+  module * { export * }
+}
